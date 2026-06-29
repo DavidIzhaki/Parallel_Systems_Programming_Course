@@ -1,10 +1,3 @@
-//
-//  guassonFilter.h
-//  guasonFilter
-//
-//  Created by Saar Azari on 04/07/2024.
-//
-
 #ifndef guassonFilter_h
 #define guassonFilter_h
 
