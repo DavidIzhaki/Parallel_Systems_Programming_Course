@@ -1,10 +1,3 @@
-//
-//  guassonFilter.c
-//  guasonFilter
-//
-//  Created by Saar Azari on 04/07/2024.
-//
-
 #include "guassonFilter.h"
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
